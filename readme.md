@@ -36,7 +36,7 @@ This is the authentication redirect page for DartNav app. It handles OAuth callb
 
 1\. In the Pages settings, under "Custom domain"
 
-2\. Enter: `auth.dartnav.com`
+2\. Enter: `auth.dartnav.app`
 
 3\. Check "Enforce HTTPS"
 
@@ -66,7 +66,7 @@ In Google Cloud Console, update your OAuth 2.0 Client ID:
 
 ```
 
-https://auth.dartnav.com
+https://auth.dartnav.app
 
 https://localhost:19006
 
@@ -80,9 +80,9 @@ http://localhost:19006
 
 ```
 
-https://auth.dartnav.com
+https://auth.dartnav.app
 
-https://auth.dartnav.com/
+https://auth.dartnav.app/
 
 ```
 
